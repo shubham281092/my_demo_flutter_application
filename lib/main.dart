@@ -74,7 +74,7 @@ class _AjmanBankHomeState extends State<AjmanBankHome> {
     {
       'title': 'Insurance',
       'desc':
-          'Car insurance renewal due CT Fibernet 150 Mbps Plan ACT Fibernet 150 Mbps ACT Fibernet 150 Mbps Plan ACT',
+          'Test Car insurance renewal due CT Fibernet 150 Mbps Plan ACT Fibernet 150 Mbps ACT Fibernet 150 Mbps Plan ACT',
       'amount': '\u20b99,200',
     },
     {
