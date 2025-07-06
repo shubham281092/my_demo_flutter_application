@@ -79,7 +79,7 @@ class _AjmanBankHomeState extends State<AjmanBankHome> {
     },
     {
       'title': 'Zomato Gold',
-      'desc': 'Dining subscription w/ free delivery.',
+      'desc': 'Test Dining subscription w/ free delivery.',
       'amount': '\u20b9299',
     },
     {
